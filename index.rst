@@ -1,6 +1,10 @@
 Get Quicken Running on This Computer – How to Download & Install Quicken Already Purchased
 ==========================================================================================
 
+.. image:: get.png
+   :alt: quicken download
+   :target: https://fm.ci?aHR0cHM6Ly9wYWRkeXBvd2VyLXN1cHBvcnQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+
 Go with Quicken – Manage Your Money, Your Way
 
 If you're an existing Quicken user looking to install the software on your current device, you're in the right place. Whether you’ve upgraded your computer, reset your system, or just need to reinstall Quicken, the good news is you don’t need to buy it again. With your active subscription and Quicken account credentials, downloading and activating Quicken on this computer is quick and easy.
