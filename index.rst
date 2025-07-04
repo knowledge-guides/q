@@ -3,7 +3,7 @@ Get Quicken Running on This Computer – How to Download & Install Quicken Alrea
 
 .. image:: get.png
    :alt: quicken download
-   :target: https://fm.ci?aHR0cHM6Ly9xdWlja2VuZ3VpZGUucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://quickencomdownload.godaddysites.com/
 
 Go with Quicken – Manage Your Money, Your Way
 
